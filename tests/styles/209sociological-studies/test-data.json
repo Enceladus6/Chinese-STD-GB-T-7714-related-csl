@@ -1,5 +1,73 @@
 [
 	{
+		"id": "xiachuanlingYinguochanraodeerjieshehuiyinguoluzhibian2021a",
+		"type": "article-newspaper",
+		"container-title": "中国社会科学报",
+		"language": "zh",
+		"note": "DOI: 10.28131/n.cnki.ncshk.2021.004115\npublisher: 中国社会科学报",
+		"page": "010",
+		"source": "CNKI",
+		"title": "因果缠绕的二阶社会因果律之辨-zh",
+		"URL": "https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CCND&dbname=CCNDLAST2022&filename=CSHK202111100100&v=",
+		"author": [
+			{
+				"literal": "夏传玲"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					5,
+					6
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					11,
+					10
+				]
+			]
+		}
+	},
+	{
+		"id": "xiachuanlingYinguochanraodeerjieshehuiyinguoluzhibian2021b",
+		"type": "article-newspaper",
+		"container-title": "中国社会科学报",
+		"language": "zh-cmn",
+		"note": "DOI: 10.28131/n.cnki.ncshk.2021.004115\npublisher: 中国社会科学报",
+		"page": "010",
+		"source": "CNKI",
+		"title": "因果缠绕的二阶社会因果律之辨-zh-cmn",
+		"URL": "https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CCND&dbname=CCNDLAST2022&filename=CSHK202111100100&v=",
+		"author": [
+			{
+				"literal": "夏传玲"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2023",
+					5,
+					6
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021",
+					11,
+					10
+				]
+			]
+		}
+	},
+	{
 		"id": "ss:01",
 		"type": "book",
 		"collection-title": "思想译丛",
